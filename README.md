@@ -1,5 +1,5 @@
-# Login-Python---Flask.
-Sistema simples de login com Python e Flask
+# Login Python - Flask
+
 ## Configuração e instalação
 
 Certifique-se de ter a versão mais recente do Python instalada.
